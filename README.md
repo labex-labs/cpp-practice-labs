@@ -39,7 +39,7 @@ This course contains lots of labs for C++, each lab is a small C++ project with 
 |      26 | 📖 Initializing a Vector                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96148'>Start Lab</a>  |
 |      27 | 📖 C++ Class Implementation                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96219'>Start Lab</a>  |
 |      28 | 📖 C++ Using STL Unordered Set                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96234'>Start Lab</a>  |
-|      29 | 📖 Find Sum of Series                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96193'>Start Lab</a>  |
+|      29 | 📖 Calculate Sum of Reciprocal Series                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96193'>Start Lab</a>  |
 |      30 | 📖 Determine Perfect Square                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96130'>Start Lab</a>  |
 |      31 | 📖 C++ Half Pyramid Pattern Using Star Program       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96143'>Start Lab</a>  |
 |      32 | 📖 C++ STL Set Find Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96236'>Start Lab</a>  |
@@ -56,7 +56,7 @@ This course contains lots of labs for C++, each lab is a small C++ project with 
 |      43 | 📖 Swap Two Numbers Using Functions                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96216'>Start Lab</a>  |
 |      44 | 📖 Find Maximum Number in Three Given Numbers        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96192'>Start Lab</a>  |
 |      45 | 📖 CPP Program to Calculate Standard Deviation       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96174'>Start Lab</a>  |
-|      46 | 📖 Check Prime Number                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96177'>Start Lab</a>  |
+|      46 | 📖 Determine Prime Number in C++                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96177'>Start Lab</a>  |
 |      47 | 📖 Minimum Element in Rotated Sorted Vector          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96134'>Start Lab</a>  |
 |      48 | 📖 Insertion Sort Using Dynamic Array                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96119'>Start Lab</a>  |
 |      49 | 📖 C++ Method Overloading                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96149'>Start Lab</a>  |
@@ -69,9 +69,9 @@ This course contains lots of labs for C++, each lab is a small C++ project with 
 |      56 | 📖 Video Object Tracking by Using OpenCV             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178621'>Start Lab</a> |
 |      57 | 📖 C++ Hierarchical Inheritance Program              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96145'>Start Lab</a>  |
 |      58 | 📖 Read and Write File Line by Line in C++           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96213'>Start Lab</a>  |
-|      59 | 📖 Creating a Simple Docker Container in C++         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298835'>Start Lab</a> |
+|      59 | 📖 Creating a Simple Docker Container in C++ (Lab)   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298835'>Start Lab</a> |
 |      60 | 📖 Memory Leak Detector with C++                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178620'>Start Lab</a> |
-|      61 | 📖 Creating the Solar System in OpenGL               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298836'>Start Lab</a> |
+|      61 | 📖 Creating the Solar System in OpenGL (Lab)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298836'>Start Lab</a> |
 
 ## More
 
