@@ -69,9 +69,7 @@ This course contains lots of labs for C++, each lab is a small C++ project with 
 |      56 | 📖 Video Object Tracking by Using OpenCV             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178621'>Start Lab</a> |
 |      57 | 📖 C++ Hierarchical Inheritance Program              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96145'>Start Lab</a>  |
 |      58 | 📖 Read and Write File Line by Line in C++           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/96213'>Start Lab</a>  |
-|      59 | 📖 Creating a Simple Docker Container in C++ (Lab)   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298835'>Start Lab</a> |
-|      60 | 📖 Memory Leak Detector with C++                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178620'>Start Lab</a> |
-|      61 | 📖 Creating the Solar System in OpenGL (Lab)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298836'>Start Lab</a> |
+|      59 | 📖 Memory Leak Detector with C++                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178620'>Start Lab</a> |
 
 ## More
 
