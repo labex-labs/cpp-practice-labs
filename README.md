@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                 | Difficulty   | Practice                                                                                                                     |
-|---------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                | Difficulty   | Practice                                                                                                                     |
+|---------|-----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Determine String Length in C++                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-determine-string-length-in-c-96191'>Start Lab</a>                    |
 |      02 | 📖 C++ Multiset in STL                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-multiset-in-stl-96232'>Start Lab</a>                               |
 |      03 | 📖 Finding Average of N User Input Numbers           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-finding-average-of-n-user-input-numbers-96156'>Start Lab</a>         |
