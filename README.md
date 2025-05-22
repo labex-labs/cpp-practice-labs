@@ -1,6 +1,6 @@
 # C++ Practice Labs
 
-[![C++ Practice Labs](https://cover-creator.appbot.io/cpp-practice-labs.png)](https://labex.io/courses/cpp-practice-labs)
+[![C++ Practice Labs](https://cover-creator.labex.io/cpp-practice-labs.png)](https://labex.io/courses/cpp-practice-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/cpp-practice-labs)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                | Difficulty   | Practice                                                                                                                     |
-|---------|-----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                 | Difficulty   | Practice                                                                                                                     |
+|---------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Determine String Length in C++                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-determine-string-length-in-c-96191'>Start Lab</a>                    |
 |      02 | 📖 C++ Multiset in STL                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-multiset-in-stl-96232'>Start Lab</a>                               |
 |      03 | 📖 Finding Average of N User Input Numbers           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-finding-average-of-n-user-input-numbers-96156'>Start Lab</a>         |
@@ -82,14 +82,12 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      53 | 📖 Multiplication of Two Matrices                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-multiplication-of-two-matrices-96168'>Start Lab</a>                  |
 |      54 | 📖 C++ Reverse Half Pyramid Pattern Using Characters | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-reverse-half-pyramid-pattern-using-characters-96221'>Start Lab</a> |
 |      55 | 📖 Implementing Dynamic Polymorphism in C++          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-implementing-dynamic-polymorphism-in-c-96154'>Start Lab</a>          |
-|      56 | 📖 Video Object Tracking by Using OpenCV             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-video-object-tracking-by-using-opencv-178621'>Start Lab</a>          |
-|      57 | 📖 C++ Hierarchical Inheritance Program              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-hierarchical-inheritance-program-96145'>Start Lab</a>              |
-|      58 | 📖 Read and Write File Line by Line in C++           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-read-and-write-file-line-by-line-in-c-96213'>Start Lab</a>           |
-|      59 | 📖 Memory Leak Detector with C++                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-memory-leak-detector-with-c-178620'>Start Lab</a>                    |
+|      56 | 📖 C++ Hierarchical Inheritance Program              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-hierarchical-inheritance-program-96145'>Start Lab</a>              |
+|      57 | 📖 Read and Write File Line by Line in C++           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-read-and-write-file-line-by-line-in-c-96213'>Start Lab</a>           |
 
 ## More
 
-- 🔗 [C++ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [C++ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 
