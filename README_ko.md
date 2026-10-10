@@ -12,23 +12,38 @@
 
 [LabEx에서 실습 시작](https://labex.io/ko/learn/cpp)
 
-LabEx에서 최대 13개의 C++ 스킬 트리 실습 랩을 살펴보세요. 각 랩은 대화형 환경에서 열려 직접 해 보며 연습할 수 있습니다.
+LabEx에서 최대 28개의 C++ 스킬 트리 실습 랩을 살펴보세요. 각 랩은 대화형 환경에서 열려 직접 해 보며 연습할 수 있습니다.
 
-|   인덱스 | 이름                                                                                                       | 난이도   | 연습                                                                                   |
-|-------|----------------------------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------|
-|    01 | [첫 번째 C++ 프로그램 작성하기](https://labex.io/ko/labs/cpp-write-your-first-c-program-446069)                     | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-write-your-first-c-program-446069)              |
-|    02 | [C++ 변수와 데이터 형식](https://labex.io/ko/labs/cpp-work-with-variables-and-data-types-in-c-446078)            | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-work-with-variables-and-data-types-in-c-446078) |
-|    03 | [C++ 연산자 구현하기](https://labex.io/ko/labs/cpp-implement-c-operators-446084)                                | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-implement-c-operators-446084)                   |
-|    04 | [C++ 제어 흐름 구조](https://labex.io/ko/labs/cpp-implement-control-flow-structures-in-c-446083)               | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-implement-control-flow-structures-in-c-446083)  |
-|    05 | [C++ 에서 함수 정의 및 사용하기](https://labex.io/ko/labs/cpp-define-and-use-functions-in-c-446080)                 | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-define-and-use-functions-in-c-446080)           |
-|    06 | [C++ 배열 및 문자열 조작](https://labex.io/ko/labs/cpp-manipulate-arrays-and-strings-in-c-446085)                | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-manipulate-arrays-and-strings-in-c-446085)      |
-|    07 | [C++ 클래스와 객체 생성하기](https://labex.io/ko/labs/cpp-create-classes-and-objects-in-c-446079)                  | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-create-classes-and-objects-in-c-446079)         |
-|    08 | [C++ 예외 처리](https://labex.io/ko/labs/cpp-handle-exceptions-in-c-446082)                                  | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-handle-exceptions-in-c-446082)                  |
-|    09 | [C++ 동적 메모리 할당](https://labex.io/ko/labs/cpp-handle-dynamic-memory-allocation-in-c-446081)               | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-handle-dynamic-memory-allocation-in-c-446081)   |
-|    10 | [C++ 에서 파일 작업 수행하기](https://labex.io/ko/labs/cpp-perform-file-operations-in-c-446086)                    | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-perform-file-operations-in-c-446086)            |
-|    11 | [C++ 에서 STL 구성 요소 사용하기](https://labex.io/ko/labs/cpp-use-stl-components-in-c-446087)                     | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-use-stl-components-in-c-446087)                 |
-|    12 | [OpenGL 을 이용한 태양계 생성](https://labex.io/ko/labs/cpp-creating-the-solar-system-in-opengl-298836)           | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-creating-the-solar-system-in-opengl-298836)     |
-|    13 | [C++ 로 간단한 Docker 컨테이너 만들기](https://labex.io/ko/labs/cpp-creating-a-simple-docker-container-in-c-298835) | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-creating-a-simple-docker-container-in-c-298835) |
+|   인덱스 | 이름                                                                                                                      | 난이도   | 연습                                                                                   |
+|-------|-------------------------------------------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------|
+|    01 | [첫 번째 C++ 프로그램 작성하기](https://labex.io/ko/labs/cpp-write-your-first-c-program-446069)                                    | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-write-your-first-c-program-446069)              |
+|    02 | [C++ 변수와 데이터 형식](https://labex.io/ko/labs/cpp-work-with-variables-and-data-types-in-c-446078)                           | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-work-with-variables-and-data-types-in-c-446078) |
+|    03 | [C++ 연산자 구현하기](https://labex.io/ko/labs/cpp-implement-c-operators-446084)                                               | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-implement-c-operators-446084)                   |
+|    04 | [C++ 제어 흐름 구조](https://labex.io/ko/labs/cpp-implement-control-flow-structures-in-c-446083)                              | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-implement-control-flow-structures-in-c-446083)  |
+|    05 | [C++ 에서 함수 정의 및 사용하기](https://labex.io/ko/labs/cpp-define-and-use-functions-in-c-446080)                                | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-define-and-use-functions-in-c-446080)           |
+|    06 | [C++ 배열 및 문자열 조작](https://labex.io/ko/labs/cpp-manipulate-arrays-and-strings-in-c-446085)                               | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-manipulate-arrays-and-strings-in-c-446085)      |
+|    07 | [C++ 클래스와 객체 생성하기](https://labex.io/ko/labs/cpp-create-classes-and-objects-in-c-446079)                                 | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-create-classes-and-objects-in-c-446079)         |
+|    08 | [C++ 예외 처리](https://labex.io/ko/labs/cpp-handle-exceptions-in-c-446082)                                                 | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-handle-exceptions-in-c-446082)                  |
+|    09 | [C++ 동적 메모리 할당](https://labex.io/ko/labs/cpp-handle-dynamic-memory-allocation-in-c-446081)                              | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-handle-dynamic-memory-allocation-in-c-446081)   |
+|    10 | [C++ 에서 파일 작업 수행하기](https://labex.io/ko/labs/cpp-perform-file-operations-in-c-446086)                                   | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-perform-file-operations-in-c-446086)            |
+|    11 | [C++ 에서 STL 구성 요소 사용하기](https://labex.io/ko/labs/cpp-use-stl-components-in-c-446087)                                    | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-use-stl-components-in-c-446087)                 |
+|    12 | [OpenGL 을 이용한 태양계 생성](https://labex.io/ko/labs/cpp-creating-the-solar-system-in-opengl-298836)                          | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-creating-the-solar-system-in-opengl-298836)     |
+|    13 | [C++ 로 간단한 Docker 컨테이너 만들기](https://labex.io/ko/labs/cpp-creating-a-simple-docker-container-in-c-298835)                | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-creating-a-simple-docker-container-in-c-298835) |
+|    14 | [C++ 기본 문법](https://labex.io/ko/labs/cpp-basic-syntax-of-c-178534)                                                      | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-basic-syntax-of-c-178534)                       |
+|    15 | [C++ Variables and Types](https://labex.io/ko/labs/cpp-c-variables-and-types-178540)                                    | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-c-variables-and-types-178540)                   |
+|    16 | [C++ Operators](https://labex.io/ko/labs/cpp-c-operators-178538)                                                        | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-c-operators-178538)                             |
+|    17 | [C++ Flow Control](https://labex.io/ko/labs/cpp-c-flow-control-178536)                                                  | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-c-flow-control-178536)                          |
+|    18 | [C++ String Fundamentals](https://labex.io/ko/labs/cpp-c-string-fundamentals-178539)                                    | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-c-string-fundamentals-178539)                   |
+|    19 | [C++ Program for FCFS Scheduling Algorithm](https://labex.io/ko/labs/cpp-c-program-for-fcfs-scheduling-algorithm-96161) | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-c-program-for-fcfs-scheduling-algorithm-96161)  |
+|    20 | [완전 제곱수 판별](https://labex.io/ko/labs/cpp-determine-perfect-square-96130)                                                | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-determine-perfect-square-96130)                 |
+|    21 | [Control Flow Structures in C++](https://labex.io/ko/labs/cpp-control-flow-structures-in-c-446083)                      | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-control-flow-structures-in-c-446083)            |
+|    22 | [Dynamic Memory Allocation in C++](https://labex.io/ko/labs/cpp-dynamic-memory-allocation-in-c-446081)                  | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-dynamic-memory-allocation-in-c-446081)          |
+|    23 | [Variables and Data Types in C++](https://labex.io/ko/labs/cpp-variables-and-data-types-in-c-446078)                    | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-variables-and-data-types-in-c-446078)           |
+|    24 | [C++ 정의되지 않은 심볼 오류 해결 방법](https://labex.io/ko/labs/cpp-how-to-resolve-undefined-symbol-errors-419008)                   | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-how-to-resolve-undefined-symbol-errors-419008)  |
+|    25 | [첫 번째 C++ 랩](https://labex.io/ko/labs/cpp-your-first-c-lab-391803)                                                      | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-your-first-c-lab-391803)                        |
+|    26 | [C++ Formatting, File IO and Namespace](https://labex.io/ko/labs/cpp-c-formatting-file-io-and-namespace-178541)         | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-c-formatting-file-io-and-namespace-178541)      |
+|    27 | [C++ Function Essentials](https://labex.io/ko/labs/cpp-c-function-essentials-178537)                                    | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-c-function-essentials-178537)                   |
+|    28 | [C++ Arrays Fundamentals](https://labex.io/ko/labs/cpp-c-arrays-fundamentals-178535)                                    | 초급    | [실습 시작](https://labex.io/ko/labs/cpp-c-arrays-fundamentals-178535)                   |
 
 [LabEx에서 더 보기](https://labex.io/ko/learn/cpp)
 

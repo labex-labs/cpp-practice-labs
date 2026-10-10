@@ -12,7 +12,7 @@ Lernen Sie C++ von Grund auf mit diesem umfassenden Lernpfad, ideal für Anfäng
 
 [Auf LabEx üben](https://labex.io/de/learn/cpp)
 
-Durchsuchen Sie bis zu 13 praktische C++-Labs von LabEx. Jedes Lab öffnet sich in einer interaktiven Umgebung, damit Sie durch Übung lernen.
+Durchsuchen Sie bis zu 28 praktische C++-Labs von LabEx. Jedes Lab öffnet sich in einer interaktiven Umgebung, damit Sie durch Übung lernen.
 
 |   Index | Name                                                                                                                              | Schwierigkeit   | Übung                                                                                      |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------|
@@ -29,6 +29,21 @@ Durchsuchen Sie bis zu 13 praktische C++-Labs von LabEx. Jedes Lab öffnet sich 
 |      11 | [Verwenden von STL-Komponenten in C++](https://labex.io/de/labs/cpp-use-stl-components-in-c-446087)                               | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-use-stl-components-in-c-446087)                 |
 |      12 | [Das Sonnensystem in OpenGL erstellen](https://labex.io/de/labs/cpp-creating-the-solar-system-in-opengl-298836)                   | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-creating-the-solar-system-in-opengl-298836)     |
 |      13 | [Erstellen eines einfachen Docker-Containers in C++](https://labex.io/de/labs/cpp-creating-a-simple-docker-container-in-c-298835) | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-creating-a-simple-docker-container-in-c-298835) |
+|      14 | [Grundlegende Syntax von C++](https://labex.io/de/labs/cpp-basic-syntax-of-c-178534)                                              | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-basic-syntax-of-c-178534)                       |
+|      15 | [C++ Variables and Types](https://labex.io/de/labs/cpp-c-variables-and-types-178540)                                              | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-c-variables-and-types-178540)                   |
+|      16 | [C++ Operators](https://labex.io/de/labs/cpp-c-operators-178538)                                                                  | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-c-operators-178538)                             |
+|      17 | [C++ Flow Control](https://labex.io/de/labs/cpp-c-flow-control-178536)                                                            | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-c-flow-control-178536)                          |
+|      18 | [C++ String Fundamentals](https://labex.io/de/labs/cpp-c-string-fundamentals-178539)                                              | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-c-string-fundamentals-178539)                   |
+|      19 | [C++ Program for FCFS Scheduling Algorithm](https://labex.io/de/labs/cpp-c-program-for-fcfs-scheduling-algorithm-96161)           | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-c-program-for-fcfs-scheduling-algorithm-96161)  |
+|      20 | [Perfekte Quadratzahl bestimmen](https://labex.io/de/labs/cpp-determine-perfect-square-96130)                                     | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-determine-perfect-square-96130)                 |
+|      21 | [Control Flow Structures in C++](https://labex.io/de/labs/cpp-control-flow-structures-in-c-446083)                                | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-control-flow-structures-in-c-446083)            |
+|      22 | [Dynamic Memory Allocation in C++](https://labex.io/de/labs/cpp-dynamic-memory-allocation-in-c-446081)                            | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-dynamic-memory-allocation-in-c-446081)          |
+|      23 | [Variables and Data Types in C++](https://labex.io/de/labs/cpp-variables-and-data-types-in-c-446078)                              | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-variables-and-data-types-in-c-446078)           |
+|      24 | [Wie man 'Undefined Symbol Errors' behebt](https://labex.io/de/labs/cpp-how-to-resolve-undefined-symbol-errors-419008)            | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-how-to-resolve-undefined-symbol-errors-419008)  |
+|      25 | [Ihr erster C++-Laborexperiment](https://labex.io/de/labs/cpp-your-first-c-lab-391803)                                            | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-your-first-c-lab-391803)                        |
+|      26 | [C++ Formatting, File IO and Namespace](https://labex.io/de/labs/cpp-c-formatting-file-io-and-namespace-178541)                   | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-c-formatting-file-io-and-namespace-178541)      |
+|      27 | [C++ Function Essentials](https://labex.io/de/labs/cpp-c-function-essentials-178537)                                              | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-c-function-essentials-178537)                   |
+|      28 | [C++ Arrays Fundamentals](https://labex.io/de/labs/cpp-c-arrays-fundamentals-178535)                                              | Anfänger        | [Lab starten](https://labex.io/de/labs/cpp-c-arrays-fundamentals-178535)                   |
 
 [Mehr auf LabEx ansehen](https://labex.io/de/learn/cpp)
 
